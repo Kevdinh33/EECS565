@@ -1,0 +1,7 @@
+Type in the terminal command line:
+
+>make
+
+Then execute the program:
+
+>./cipher [plaintext] [keyLength] [firstWordLength]
